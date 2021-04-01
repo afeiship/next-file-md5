@@ -19,6 +19,9 @@ nx.fileMd5('jest.config.js');
 // 06b6d5917e8bcf11f31706244a0e6532
 ```
 
+## resources
+- https://itbilu.com/nodejs/npm/Nk-6MeQ9.html
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-file-md5/blob/master/LICENSE.txt).
 
